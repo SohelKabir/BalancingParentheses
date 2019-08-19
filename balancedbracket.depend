@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566140590 source:e:\summer-19\cse225lab\labworks\balancedbracket\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1566140575 e:\summer-19\cse225lab\labworks\balancedbracket\stacktype.h
+
+1566208661 source:e:\summer-19\cse225lab\labworks\balancedbracket\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1566140590 e:\summer-19\cse225lab\labworks\balancedbracket\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
